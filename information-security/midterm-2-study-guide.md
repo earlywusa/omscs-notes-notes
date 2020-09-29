@@ -18,7 +18,7 @@ SYN spoofing attack targets \___.
 - C. DNS service
 - D. None of the above
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 B
@@ -37,7 +37,7 @@ What is a _poison packet_?
 - C. A packet that infects other packets in the network buffer.
 - D. A packet that redirects other packets to a malicious target.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 A
@@ -56,7 +56,7 @@ What is a _cyber slam_?
 - C. A firewall packet strategy that helps to thwart a DoS or DDoS attack.
 - D. A large number of queries that severely load a server.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 D
@@ -76,7 +76,7 @@ If an attacker directs a large number of forged requests to a server, what type 
 - D Reflector
 - E Amplifier
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 C
@@ -90,7 +90,7 @@ Text pg 230
 
 ICMP flood attacks remain common because some ICMP packets are critical to normal network behavior and cannot be filtered.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -109,7 +109,7 @@ What is the difference between a TCP SYN flood attack and a SYN spoofing attack?
 - C. SYN spoofing works with UDP only.
 - D. TCP SYN flood attacks don't use spoofed source addresses.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 B
@@ -130,7 +130,7 @@ What type of attack is based on sending a large number of INVITE requests with s
 - C. Slashdot attack
 - D. SIP flood attack
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 D
@@ -144,7 +144,7 @@ Text pg 236, pg 241
 
 The best defense against a reflection attack is to not allow directed broadcasts to be routed into a network.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -160,7 +160,7 @@ Text pg 241, 242
 
 A characteristic of reflection attacks is the lack of backscatter traffic.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -182,7 +182,7 @@ What are some ways to prevent SYN spoofing attacks?
 - E All of the above
 - F None of the above
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 E
@@ -196,7 +196,7 @@ Text pg 246
 
 Slowloris uses a ping flood via ICMP echo request packets.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -212,7 +212,7 @@ Text pg 238, 242
 
 In a TCP spoofing attack, attacker ideally wishes to use addresses that will not respond to the SYN-ACK with a RST.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -231,7 +231,7 @@ A recursive HTTP flood attack is also known as what?
 - C. a Spidering attack
 - D. a SIP flood
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 C
@@ -253,7 +253,7 @@ When it comes to defense against attacks one of the most important principle is 
 - C.	Defense-in-depth
 - D.	Time
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 C
@@ -271,7 +271,7 @@ Firewalls are what type of mechanisms?
 - C.	Attack
 - D.	None of the above
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 A
@@ -285,7 +285,7 @@ Defense in depth lecture
 
 The firewall will enforce different security restrictions on traffic.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -303,7 +303,7 @@ A _____ is a device that provide secure connectivity between networks
 - C.	Firewall
 - D.	DMZ
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 C
@@ -321,7 +321,7 @@ Firewalls as a prevention mechanism should be designed to enforce what?
 - C.	Organizational Policy
 - D.	Public Key Infrastructure
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 B
@@ -335,7 +335,7 @@ Firewall
 
 All traffic from internal network to the internet and vice versa (external and out of the network) must pass through the firewall
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -353,7 +353,7 @@ The critical component of planning and implementation of a firewall is specifyin
 - C.	Network
 - D.	Directory
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 B
@@ -371,7 +371,7 @@ At a high level the types of traffic that are allowed through the access policy 
 - C.	Intranet
 - D.	Defense in depth
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 A
@@ -385,7 +385,7 @@ Firewall Access Policy
 
 A policy should not be developed based on the security and risk assessment/organizations needs but how the CEO thinks it should be.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -401,7 +401,7 @@ Firewall Access Policy
 
 Firewalls always provide protection 100% of the time.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -417,7 +417,7 @@ The firewall isn't 100% secure.
 
 Firewalls can log all traffic and can provide Network Address Translation.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -435,7 +435,7 @@ What is firewall filtering?
 - C.	Firewall filtering means the firewall decides whether to let the traffic through or not
 - D.	Firewall filtering means whether it will allow for a defense in depth strategy to protect the organizations digital assets.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 C
@@ -449,7 +449,7 @@ Firewalls and Filtering
 
 Packet filtering at a very high level is essentially a policy that has a set of access control lists based on packet types.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -468,7 +468,7 @@ Session filtering is based on the context within a session. In order to do this 
 - C.	DMZ re route
 - D.	Virtual Switch
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 B
@@ -483,7 +483,7 @@ Filtering types
 In a packet filtering firewall decisions are made on a per packet basis and not other packets.
 
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -497,7 +497,7 @@ Packet filtering
 
 The packet filtering firewall applies a list of rules to match the IP or TCP header of a packet and based on the rules match the firewall and then to decide to forward or discard the packet.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -524,7 +524,7 @@ What policies for packet filtering firewalls are used?
 - E. C & B
 - F. A & B
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 F
@@ -547,7 +547,7 @@ What are the weaknesses to packet filtering?
 - D.Packet filter firewalls are susceptible to security breaches if improperly configured.
 - E. All of the above
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 E
@@ -566,7 +566,7 @@ Packet Filtering Firewall Countermeasures are all of the following **except**?
 - C. Tiny Fragment Attack
 - D. Stateful inspection Attack
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 D
@@ -594,7 +594,7 @@ Tiny fragment attacks: The intruder uses the IP fragmentation option to create e
 
 Firewalls can only be one single computer system.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -612,7 +612,7 @@ The goals of a firewall are all the following except which?
 - C.	Only unauthorized users are defined by the local security policy and will be allowed to pass.
 - D.	The firewall is immune to penetration
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 C
@@ -626,7 +626,7 @@ Page 290…. It should also be noted that since the firewall itself is immune to
 
 A major component in the planning and implementation of a firewall is specifying an access policy.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -645,7 +645,7 @@ A firewall access policy would use which of the following to filter traffic?
 - D.	Network Activity
 - E.	All of the Above
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 E
@@ -668,7 +668,7 @@ The following are all in the scope of a firewall except which?
 - D.	Firewalls allow for several internet functions that are not security related also to happen such as Network Address Translators and Network management function.
 - E.	A firewall can serve as a platform for IPSec. Firewalls can be used to implement VPN's as well
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 C
@@ -691,7 +691,7 @@ A laptop, PDA, or portable storage device may be used and infected outside the c
 
 A web proxy is a form of application-level gateway.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -712,7 +712,7 @@ Intrusion is what?
 - C. A form of detection which users are able to see everyone on the network
 - D. A form of encryption which allows end to end security.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 A
@@ -726,7 +726,7 @@ Intrusion Examples
 
 Intrusion Detection systems are part of the defense in depth strategy
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -748,7 +748,7 @@ Defense in depth strategies should include the following **except** what?
 - F. Actively management of operating systems
 - G. Application security
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 E
@@ -774,7 +774,7 @@ What is the correct order for how an attacker behaves during intrusion:
 
 - F. Target acquisition and information gathering this is when the attacker identifies the target system using publicly available information both technical and non-technical and they also use network tools to analyze target resources.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 The order for these values are:
@@ -789,7 +789,7 @@ Intruder Behavior
 
 The key design elements for an intrusion detection system is examining network and group activities
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -805,7 +805,7 @@ Elements of Intrusion Detection
 
 From an algorithmic perspective models capture intrusion evidence meanwhile features piece evidence together.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -829,7 +829,7 @@ Which of the components is not part of an Intrusion detection system?
 - E. Reporting and Analytics
 - F. Decision Engine
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 E
@@ -844,7 +844,7 @@ Components of an IDS lecture
 
 Anomaly detection tries to detect what is normal and is using machine learning meanwhile Signature detection uses a database to identify virus patterns.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -858,7 +858,7 @@ Lectures
 
 Another name for an intruder is a hacker or a cracker.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -876,7 +876,7 @@ An IDS is comprised of three logical components which of the following is not a 
 - C. Deep Learning
 - D. Sensors
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 C
@@ -901,7 +901,7 @@ In an IDS system the sensors do what?
 - C. Provide guidance about what actions to take when the intrusion occurs.
 - D. Collect and forward information to the analyzer
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 D
@@ -915,7 +915,7 @@ PG 256
 
 Analyzers are responsible for determining if an intrusion has occurred. The output of this component is an indication that an intrusion has occurred. But the output 100% of the time doesn't include evidence supporting the conclusion that an intrusion has occurred.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -931,7 +931,7 @@ Page 256
 
 Intrusion Detection Systems are only allowed to use a single sensor.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -947,7 +947,7 @@ Page 256
 
 One of many intruder behaviors is Maintaining Access.  This is done by adding a machine code backdoor that is hard to detect.  Detection is difficult because the backdoor modifies machine level code.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -970,7 +970,7 @@ III. Combines information from multiple sensors often both host and network base
 - C. Host-Based IDS is III, Network based IDS is I and Host based IDS is I
 - D. There are no other IDS architectures just one Host-Based IDS
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 B
@@ -990,7 +990,7 @@ Page 257
 
 In the context of IDS systems a false negative is when a authorized user is identified as an intruder and a false positive is identified where intruders are not identified as intruders.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -1006,7 +1006,7 @@ Page 257
 
 The base-rate fallacy of IDS states that if the numbers of intrusions are low compared to the number of legitimate users of a system then the false alarm rate will be high unless the test is extremely discriminating
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -1025,7 +1025,7 @@ Anomaly detection involves the collection of data relating to a behavior over a 
 - C. Both High false positive and negative rates
 - D. Low false positive rate
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 A
@@ -1039,7 +1039,7 @@ Lecture Notes & Pg 259
 
 Signature or Heuristic detection uses a set of pre-defined malicious data patterns or attack rules that are compared with current behavior to decide if it is that of an intruder.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -1061,7 +1061,7 @@ The disadvantages of locating a honeypot in an internal network are:
 - d) It leads to honey files, which are malicous byproducts of the prolonged use of the honeypot.
 - e) It leads to a honey do list, which can ruin a Saturday.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 B
@@ -1084,7 +1084,7 @@ Which of the following is not listed as a desired quality of an IDS?
 - G. Be able to adapt to changes in system and user behavior over time.
 - H. Provide graceful degradation of service in the event that some components of the IDS stop working.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 F
@@ -1100,7 +1100,7 @@ Text pg 258
 
 The SNORT system is a signature-based NIDS.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -1116,7 +1116,7 @@ Text pg 261
 
 A key limitation of anomaly detection approaches used by many IDS's is that they are generally only trained with legitimate data.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -1136,7 +1136,7 @@ The advantages of __________________ anomaly detection include relative simplici
 - D. Heuristic
 - E. Signature
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 A
@@ -1156,7 +1156,7 @@ A key disadvantage of _______________ anomaly detection is the significant time 
 - D. Heuristic
 - E. Signature
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 C
@@ -1176,7 +1176,7 @@ The advantages of ______________ approaches include their robustness and flexibi
 - D. Heuristic
 - E. Signature
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 B
@@ -1190,7 +1190,7 @@ pg 259
 
 Signature detection would be suitable to detect buffer overflows, password guessing, or malware transmission attacks.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -1204,7 +1204,7 @@ Text pg 271
 
 Anomaly detection would be suitable to detect policy violation attacks.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -1220,7 +1220,7 @@ Text pg 271
 
 Signature detection would be suitable to worm attacks.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -1238,7 +1238,7 @@ Text pg 271
 
 Symmetric Encryption relies on a public and private key meanwhile asymmetric encryption relies on a shared key between two parties
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -1257,7 +1257,7 @@ There are two schemes to attack a symmetric encryption scheme. What are they?
 - C. Brute-force attack and CipherText
 - D. Cryptanalysis & Caesar
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 A
@@ -1275,7 +1275,7 @@ Page 32
 
 The most commonly used asymmetric encryption are block ciphers. They are DES, Triple DES and AES.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -1296,7 +1296,7 @@ The two categories of concern about DES fall into two categories. What are they?
 - C. The key length of 56 bits and the cryptanalysis of the algorithm
 - D. All of the above
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 C
@@ -1311,7 +1311,7 @@ Page 33
 
 The main reason most companies go with 3DES is because the algorithm is relatively faster in software compared to normal DES and AES
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -1333,7 +1333,7 @@ If Alice wants to send verification of her identity, she can send a message encr
 - C. hash function, private key
 - D. private key, public key
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 D
@@ -1349,7 +1349,7 @@ P2_L5 Notes, page 10
 
 If you want to achieve the highest level of privacy and reliability, it is often best to use a new or unpublished encryption algorithm.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -1365,7 +1365,7 @@ P2_L5 Notes, pg 9
 
 A digital envelope is a technique for attaching a one-time key that encrypts a message to the receiver's public key.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -1379,7 +1379,7 @@ Text pg 55
 
 The primary advantage of a block cipher is that block ciphers are almost always faster and use far less code than do stream ciphers.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -1398,7 +1398,7 @@ All but one of the following situations are examples were Message Authentication
 - C. When the system for either the sender or recipient are heavily loaded and cannot afford the time to encrypt.
 - D. When authenticating a computer program, allowing it to execute without having to perform a decryption each time.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 B
@@ -1416,7 +1416,7 @@ Which of the following is not a characteristic that is sought in random (or pseu
 - B. Values are statistically independent of one another.
 - C. The sequence is unpredictable.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 A
@@ -1432,7 +1432,7 @@ Text pg 55
 
 It is possible to for a computer chip to use software to generate true random numbers.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -1449,7 +1449,7 @@ Text pg 56 and https://software.intel.com/en-us/articles/intel-digital-random-nu
 
 So called _data at rest_ is often not encrypted, but it should be encrypted.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
  True
@@ -1469,7 +1469,7 @@ Under which of the following situations would Message Authentication confidentia
 - D. Encryption hardware is geared toward larger data sizes.
 - E. Encryption algorithms may be patent protected.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 B
@@ -1496,7 +1496,7 @@ V. Intrusion detection
 - E. All except I.
 - F. All except IV.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 E
@@ -1511,7 +1511,7 @@ Text pg 44
 
 A symmetric cipher is characterized by ciphertext that is the same size as the original plaintext.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -1527,7 +1527,7 @@ Text pg 31 (Chapter 2)
 
 For applications such as file transfer, email, and database, a stream cipher may be more appropriate.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -1543,7 +1543,7 @@ Text pg 620
 
 A number of attacks against RC4 have been published, but if a large enough key is used, none of those attacks are practical.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -1557,7 +1557,7 @@ Text pg 622
 
 RC4 is a very fast and simple to explain, and it allows for variable key lengths.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -1576,7 +1576,7 @@ Which of the following is _not_ among the ways two users can arrange to exchange
 - C. If the two parties have an encrypted connection to a third party, the third party can deliver the key.
 - D. None of the above answers are correct.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 A
@@ -1595,7 +1595,7 @@ Which of the following defines a _Session Key_?
 - C. The authority that determines which systems are allowed to communicate with each other.
 - D. A shared key that is used in Asymmetric encryption standards such as RSA.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 B
@@ -1614,7 +1614,7 @@ How can 3DES be used to decrypt DES encrypted ciphertext?
 - C. By setting Key3 = Key_DES
 - D. By setting Key1 = Key3 and Key2 = Key_DES.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 B
@@ -1634,7 +1634,7 @@ In a public-key system using RSA, you intercept the ciphertext C=10 sent to a us
 - D. 30
 - E. 5
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 B
@@ -1656,7 +1656,7 @@ Consider a Diffie-Hellman scheme with a common prime q=11 and a primitive root $
 - D. 5
 - E. 2
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 A
@@ -1672,7 +1672,7 @@ Text pg 653 and pg 658 problem 21.12
 
 The structure and functions used in SHA-1 and SHA-2 are substantially different from those used in SHA-3.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -1694,7 +1694,7 @@ The CTR cipher block mode _does not_ have which of the following advantages list
 - F. Random Access capability
 - G. Provable Security
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 E
@@ -1708,7 +1708,7 @@ Text pg 627
 
 It is possible to convert any block cipher into a stream cipher.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -1726,7 +1726,7 @@ Text pg 625
 
 AES is a Feistel cipher.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -1740,7 +1740,7 @@ https://www.tutorialspoint.com/cryptography/advanced_encryption_standard.htm
 
 The primary advantage of a block cipher is that block ciphers are almost always faster than stream ciphers.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -1759,7 +1759,7 @@ What is the main reason 3DES uses an encrypt-decrypt-encrypt sequence?
 - C. It can decrypt DES encrypted messages.
 - D It is easier to use with cipher block chaining.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 C
@@ -1779,7 +1779,7 @@ Which of the following is not a mode of operation used in Cipher blocks?
 - D. Output Feedback
 - E. Counter
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 A
@@ -1799,7 +1799,7 @@ Which of the following is the weakest form of attack?
 - D  Ciphertext Only
 - E. Chosen Text
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 D
@@ -1818,7 +1818,7 @@ What is RC4?
 - C An asymmetric block cipher.
 - D. A set of standards used in Internet encryption.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 A
@@ -1832,7 +1832,7 @@ Text pg 619
 
 CTR mode is used for timing, for example, to ensure that encrypted streams remain in sync with one another.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -1851,7 +1851,7 @@ What operation does the Diffie-Hellman algorithm use as a one way function?
 - C. Discrete logarithms
 - D. Hashing functions.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 C
@@ -1876,7 +1876,7 @@ E. False, False, False, True
 F. True, True, False, False
 G. None of these are choices are correct.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 G
@@ -1892,7 +1892,7 @@ Text pg 646
 
 The MD5 hash function, despite being susceptible to the birthday attack, is suitable for HMAC.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -1906,7 +1906,7 @@ Text pg 643
 
 RSA can be used for both encryption and key exchange, but DSS cannot.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -1920,7 +1920,7 @@ Text pg 656
 
 If someone finds an efficient way to factor large integers, then AES will be obsolete.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -1934,7 +1934,7 @@ P2_L6 Notes, pg 20
 
 The Certification Authority is responsible for generating the public keys.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -1957,7 +1957,7 @@ B. I and III
 C. II and III
 D. I, II, and III
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 C
@@ -1971,7 +1971,7 @@ Text pg 641
 
 Using the Pigeonhole Principle, given that a hash can take an input of any size and output a value of fixed size, then it should have collisions.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -1985,7 +1985,7 @@ Notes: P2_L8  - Hashes, pg 5
 
 The Pigeonhole Principle can be used as a counterexample to the Collision Resistance property of hashes.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -2008,7 +2008,7 @@ From the birthday "paradox", if the length of the hash is _x_ bits, then a hacke
 - E.  about 25%
 - F. less than 25%
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 D
@@ -2026,7 +2026,7 @@ Notes P2_L8 - Hashes pg 4
 
 SHA-1 allows message sizes as large as 2 terabytes.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -2042,7 +2042,7 @@ Notes P2_L8 - Hashes pg 7
 
 A truly ideal hash function should be nondeterministic.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -2063,7 +2063,7 @@ What is the main advantage of ECC compared to RSA?
 - C. Its theory has been around for a long time.
 - D. It offers equal security with smaller key size.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 D
@@ -2079,7 +2079,7 @@ Text pg 656
 
 Diffie-Hellman Key Exchange is, on its own, completely vulnerable to a man in the middle attack.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -2095,7 +2095,7 @@ Text pg 656
 
 In attacks on RSA, it has been demonstrated that if the public key _d_ is less than _n_ and the private key _d_ is less than the fourth root of n, then _d_ can be "easily determined".
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -2109,7 +2109,7 @@ Text pg  650
 
 According to the text, the largest product of primes that has been factored to date was over 200 decimal digits long.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -2137,7 +2137,7 @@ V. Multiply the ciphertext by a random number before performing exponentiation.
 - D. I, II, III, and IV.
 - E. II, III, IV, and V.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 B
@@ -2151,7 +2151,7 @@ Text pg 652
 
 Blinding, or multiplying ciphertext by a random number before performing exponentiation during RSA encryption, incurs a 2 to 10% performance penalty.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -2178,7 +2178,7 @@ V. Input is processed one block at a time in an iterative fashion.
 - E. III and IV
 - F. III and V
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 D
@@ -2192,7 +2192,7 @@ Text pg 635
 
 SHA-512 is more efficient than SHA-256 on many 64-bit systems.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -2206,7 +2206,7 @@ Text pg 637
 
 SHA-512 makes use of constants derived from the first 64 bits of fractional parts of cube roots of the first 80 (one for each round) prime numbers.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -2229,7 +2229,7 @@ A longitudinal redundancy check is reasonably effective for random data as a dat
 - G. AND
 - H. Circular Shift
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 A
@@ -2255,7 +2255,7 @@ III. TGS
 - C. I and III only
 - D. II and III only
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 C
@@ -2276,7 +2276,7 @@ What of the following are steps Kerberos uses to ensure security and authenticat
 - E. All of the above
 - F. Duh
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 E
@@ -2297,7 +2297,7 @@ What is an authenticator, as used by Kerberos?
 - E. None of the above.
 
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 B
@@ -2312,7 +2312,7 @@ Text pg 686
 
 The Authentication Server holds a copy of symmetric keys for all clients and servers.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -2326,7 +2326,7 @@ Text pg 686
 
 The TGT includes a key ("ticket") that gives the client access to the requested service.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -2340,7 +2340,7 @@ Text pg 686
 
 The user cannot read the TGT, she only passes it forward along with other information, to the TGS.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -2360,7 +2360,7 @@ The set of keys and and user ID's / passwords in a Kerberos network (i.e., a ful
 - D. an organization
 - E. a Kerberos policy.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 A
@@ -2374,7 +2374,7 @@ Text pg 688
 
 PKI is defined as the set of hardware, software, people, policies, and procedures needed to create, manage, store, distribute, and revoke digital certificates based on symmetric cryptography.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -2395,7 +2395,7 @@ Which of the following is _not_ a long-known problem with the X-509 PKI model?
 - C. All CA's in the trust store are assumed to be equally trusted, well managed, and applying equal policies.
 - D. The trust certificates shared in the trust store are not encrypted.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 D
@@ -2414,7 +2414,7 @@ What is a trust store?
 - C. A CA that issues authentication certificates.
 - D. A single internationally specified hierarchy of government regulated CAs.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 B
@@ -2428,7 +2428,7 @@ Text pg 694
 
 Kerberos provides _both_ authentication _and_ access control.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -2442,7 +2442,7 @@ Notes P2_L9 Security Protocols, pg 15
 
 The authenticator is a program that checks the user's TGT versus the value on file.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -2463,7 +2463,7 @@ How does Trudy, the (wo)man in the middle, initiate a mutual authentication refl
 - C. She tricks Alice into sending her challenge twice.
 - D. She simply re-sends the challenge response that she intercepted from Alice, back to her.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 B
@@ -2483,7 +2483,7 @@ What is a major shortcoming of using a pairwise key exchange based on a shared s
 - C. Session keys expire after a set time.
 - D. It is vulnerable to the man in the middle attack.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 A
@@ -2499,7 +2499,7 @@ Notes P2_L9 Security Protocols pg 10
 
 In Kerberos, the localhost must store the user's password (or password hash) after retrieving the session key from the key distribution center.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -2523,7 +2523,7 @@ III. The key has been duplicated.
 - D. I and III only
 - E  I only
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 B
@@ -2537,7 +2537,7 @@ Text pg 692
 
 Conventional X.509 certifications have validity periods of months to years.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -2564,7 +2564,7 @@ IV. The ability to sign and encrypt email messages.
 - D. II and IV
 - E. None of these
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 C
@@ -2586,7 +2586,7 @@ What is the main difference between _signed data_ and _clear signed data_?
 - D. Clear signed data allows users to use PKI, signed data requires users to apply a private key.
 - E. None of the above are correct.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 E
@@ -2608,7 +2608,7 @@ What is _radix 64 encoding_ (aka _base 64 encoding_)?
 - D. Encoding that encrypts a message using the receiver's 64 bit private key.
 - E. None of the above are correct.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 C
@@ -2622,7 +2622,7 @@ Text pg 663
 
 The basic tool that permits the wide scale use of S/MIME is a pseudo random key generator.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -2661,7 +2661,7 @@ Choices:
 - D. CC, EE, BB, AA, DD
 - E. DD, BB, CC, EE, AA
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 B
@@ -2675,7 +2675,7 @@ Text pg 665
 
 A primary difference between DKIM and S/MIME is that in the former, the message is signed transparently using the private key of the admin domain from the originator, whereas the latter requires the originator's private key.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -2689,7 +2689,7 @@ Text pg 665
 
 For most modern users of email, most incoming and outgoing mail is encoded using S/MIME.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -2703,7 +2703,7 @@ Text pg 665
 
 TLS sessions avoid the need for updating security parameters for each connection.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -2723,7 +2723,7 @@ Why is a random parameter sent along with client_hello message during phase 1 of
 - D. It is sent to confuse bots to prevent a DDoS attack.
 - E. It is part of legacy code, sent to allow back compatibility.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 B
@@ -2743,7 +2743,7 @@ What is the basic tool that permits the widespread use of S/MIME?
 - D. DKIM
 - E. SMTP
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 A
@@ -2757,7 +2757,7 @@ Text pg 664
 
 The SSL Record protocol provides both confidentiality and message integrity.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -2771,7 +2771,7 @@ Text pg 669
 
 The Heartbleed vulnerability was due to a design flaw that was discovered in the TLS specification.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -2792,7 +2792,7 @@ Which of the following statements concerning benefits of IPSec is false?
 - C. IPSec can ensure that a routing update is forged.
 - D. IPSec can ensure that a routing advertisement comes from an authorized router.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 C
@@ -2814,7 +2814,7 @@ Who signs the message to authenticate when DKIM is used?
 - D. MS
 - E. MDA
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 B
@@ -2828,7 +2828,7 @@ Text pg 667
 
 When ESP is used in IPSec transport mode, the packet payload and ESP trailer are encrypted, but the ESP header is not encrypted.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -2844,7 +2844,7 @@ P2_L10+IPSEC+and+TLS notes, pg 5
 
 The Security Policy Database and the Security Association Database are maintained in separate tables.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -2858,7 +2858,7 @@ P2_L10+IPSec+and+TLS.pptx, slide 20 reviewer notes
 
 The SA is a two-way relationship between a sender and receiver, defined by IPSec parameters.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -2874,7 +2874,7 @@ P2_L10+IPSec+and+TLS notes, pg 8
 
 In default mode, if a pre-shared key is compromised during phase 2 of Internet Key Exchange, then all IPSec keys previously computed are compromised.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -2896,7 +2896,7 @@ Which IPSec mode offers end-to-end security protection?
 - D. TLS Mode
 - E. Transport Mode
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 E
@@ -2916,7 +2916,7 @@ What is done if the sequence number in the IPSec header of a packet is less than
 - D. The packet is accepted.
 - E. The packet is forwarded.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 A
@@ -2932,7 +2932,7 @@ Lesson 19 Lecture video: Concept 23
 
 Multiple IPSec SAs can be established with one IKE SA.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -2951,7 +2951,7 @@ Which is the main reason a cookie is sent during Phase 1 of IKE?
 - C. To help prevent DoS attacks.
 - D. To store header information, such as time stamp, a nonce, and the user's public key.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 C
@@ -2972,7 +2972,7 @@ Adding firewall policies to limit the scope of data and application access for a
 - C. Barrier security
 - D None of the above
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 C
@@ -2991,7 +2991,7 @@ Using Virtual Private Network(VPN) configured so that all traffic between mobile
 - C. Barrier security
 - D None of the above
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 B
@@ -3017,7 +3017,7 @@ V. Masquerade channel attacks
 - D. I, II, III, IV, and V
 - E. none of the above
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 E
@@ -3033,7 +3033,7 @@ Text pg 703
 
 The main threat to wireless access points is disruption.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -3049,7 +3049,7 @@ Text pg 703
 
 Configuring routers to use MAC authentication will block unauthorized access to the network.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -3071,7 +3071,7 @@ What does the concept of _de-perimeterization_ mean, regarding mobile device sec
 - D. Administrators must put short time constraints on wireless access credentials so long-time users don't create a virtual perimeter wall and block other users from access.
 - E. None of the above.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 C
@@ -3085,7 +3085,7 @@ Text pg 704
 
 IDS and IPS should be configured to have tighter rules for mobile device traffic.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -3099,7 +3099,7 @@ Text pg 707
 
 WPA security mechanisms eliminates most of the weaknesses of the WEP algorithm.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -3124,7 +3124,7 @@ V. VPN
 - C. II, III, and IV
 - D. None of these choices
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 C
@@ -3145,7 +3145,7 @@ What does _association_ mean, with respect to the 802.11i phase?
 - C. The key that is used for communication from a station to an access point or another station.
 - D. The four step handshaking procedure that is completed when signing in to a wireless network.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 A
@@ -3167,7 +3167,7 @@ Which key is used for user traffic on a wireless connection?
 - D. GTK
 - E. PSK
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 B
@@ -3183,7 +3183,7 @@ Text pg 722
 
 The MAC layer is responsible for authorization and validation.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -3205,7 +3205,7 @@ Which term corresponds to what is referred to in literature as a _cell_?
 - D. the Mac Service Data Unit
 - E. the Basic Service Set
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 E
@@ -3219,7 +3219,7 @@ E
 
 The principal elements of a mobile device security strategy are _device security_, _client/server traffic security_, and _barrier security_.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -3233,7 +3233,7 @@ Text pg 706
 
 Disassociation is a policy under the 802.11 standard which protects a channel from interference from eavesdroppers and third parties.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -3249,7 +3249,7 @@ Text pg 713
 
 All Android apps must be signed and reviewed by Google / Android.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -3267,7 +3267,7 @@ Notes: Project2_L12 Wireless and Mobile Security notes, page 15
 
 Security standards recommend that the overall responsibility for an organization's IT security be assigned to a single person.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -3287,7 +3287,7 @@ Which of the following is the definition of _risk index_?
 - D. Max Info Sensitivity - Min User Clearance
 - E. Number of Threats / Likelihood of Occurrence
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 D
@@ -3301,7 +3301,7 @@ Text pg 469
 
 An organization's _risk appetite_ is the net value that it invests in risk management.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -3322,7 +3322,7 @@ What is a threat agent?
 - C. A manager or CEO of a company, who makes decisions based on risk analyses.
 - D. A person who makes a threat, via ransomware, toward an organization.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 B
@@ -3341,7 +3341,7 @@ What is the definition of risk, in terms of organizational security?
 - C. (Net loss due to threats) / (Net worth of the organization)
 - D. (Estimated cost of repairs to threats) + (Estimated costs to prevent threats)
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 A
@@ -3357,7 +3357,7 @@ Text pg 474
 
 A rating of _Likely_ or higher, in a risk analysis, suggests that the threat has occurred previously.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -3376,7 +3376,7 @@ What is a _risk register_?
 - C. A table risks on assets, detailing threats, controls, likelihood, consequences, and level of risk.
 - D. A summary of losses incurred, along with the corresponding costs involved, people, and resources affected.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 C
@@ -3396,7 +3396,7 @@ What is the definition of _risk exposure_?
 - D. (Probability of adverse event) x (Impact of adverse event)
 - E. (Risk exposure w/o control - risk exposure after control) / (cost of control)
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 D
@@ -3415,7 +3415,7 @@ What is the definition of _Risk Leverage_?
 - C. The expected gain from imposing controls less the expected loss from not imposing them.
 - D. The resources available for controls as a fraction of the revenue stream of the organization.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 B
@@ -3436,7 +3436,7 @@ What values of risk leverage imply that the controls are effective?
 - C. 1 (or close to 1)
 - D. greater than 1
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 D
@@ -3454,7 +3454,7 @@ P3_L1_Cybersecurity pg 13
 
 Contingency planning, incident response, maintenance, media protection, personnel security, physical and environmental protection, and system and information integrity are all _Operational_ security controls.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -3468,7 +3468,7 @@ Text pg 492, Table 15.1
 
 An IT Security plan includes details of risks, controls, priorities, resources, personnel, dates, and maintenance requirements needed to mitigate risks.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -3482,7 +3482,7 @@ Text pg 498
 
 Security and Awareness training often receives the least attention and in many cases is an afterthought, if at all.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -3498,7 +3498,7 @@ Text pg 500
 
 The decision as to whether to install the latest patches immediately, or to test to ensure that they don't adversely affect other applications is a part of the _Change Management_ process of monitoring risks.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -3512,7 +3512,7 @@ Text pg 500
 
 As the number of reported incidents have increased, the budgets invested in cyber security have drastically increased.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -3543,7 +3543,7 @@ Which of the following is _not_ cited in the Articles on the Convention on Cyber
 - K. Infringements of copyright
 - L. Attempt and aiding or abetting
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 B and F
@@ -3564,7 +3564,7 @@ Which of the following are copyright owner rights against infringement?
 - V. Public-performance right
 - VI. Public-display right
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 All except for II and IV.  (Also add Modification right)
@@ -3578,7 +3578,7 @@ Text pg 584
 
 Both criminal and civil penalties apply to individuals who attempt to circumvent technological measures used to thwart access to or copying of copyrighted material.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -3592,7 +3592,7 @@ Text pg 586
 
 Algorithms can be patented.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -3617,7 +3617,7 @@ V. Bypassing technological measures to protect PII.
 - C. I, II, IV, V
 - D. III, IV, V
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 A
@@ -3631,7 +3631,7 @@ Text pg 586
 
 Anonymity directly conflicts with authorization and access control functions.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -3647,7 +3647,7 @@ Text pg 592
 
 PII in anonymized data can sometimes be re-identified.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
@@ -3662,7 +3662,7 @@ Text pg 594
 
 Privacy is the principle that only authorized persons should have access to information. Confidentiality is the control that individuals have over who can access their personal information.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 False
@@ -3678,7 +3678,7 @@ Text pg 594
 
 Software applications embedded in toys may be classified as a computing artifact.
 
-<details>
+<details open>
 <summary>Answer</summary>
 
 True
